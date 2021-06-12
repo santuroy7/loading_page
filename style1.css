@@ -31,7 +31,8 @@
     height: 40px;
     width: 40px;
     /* border: 2px solid  rgb(255, 4, 4); */
-    border-radius: 10%;
+/*     border-radius: 10%; */
+    border-radius: 80%; 
 
     animation: example 3s linear infinite;
     
